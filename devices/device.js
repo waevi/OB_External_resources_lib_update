@@ -1,0 +1,33 @@
+module.exports = [
+    // Buid-in device
+    'arduinoUno',
+    'arduinoNano',
+    'arduinoLeonardo',
+    'arduinoMega2560',
+    'esp32',
+    'esp32c3',
+    'arduinoEsp32',
+    'microPythonEsp32',
+    'esp8266NodeMCU',
+    'arduinoEsp8266NodeMCU',
+    'microPythonEsp8266NodeMCU',
+    'k210MaixDock',
+    'arduinoK210MaixDock',
+    'microPythonK210MaixDock',
+    'k210Maixduino',
+    'arduinoK210Maixduino',
+    'microPythonK210Maixduino',
+    'raspberryPiPico',
+    'arduinoRaspberryPiPico',
+    'microPythonRaspberryPiPico',
+    'microbit',
+    'microbitV2',
+    'makeyMakey',
+    // Third party
+    'coBot_esp32C3',
+    'coBot_arduinoEsp32C3',
+    'thingBot_esp32C3',
+    'thingBot_arduinoEsp32C3',
+    'viaBanhMi_esp32',
+    'viaBanhMi_arduinoEsp32'
+];
